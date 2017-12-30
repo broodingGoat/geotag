@@ -1,0 +1,13 @@
+help: |
+  <speak>
+  Geo tag is a game to test your knowledge about american cities and states
+  It plays something like this. Geo Tag will say name of city like Los Angeles and you have to say name of a city or state starting witht he last alphabet.
+  Since last alphabet here is n, you would say something like Nebraska
+  Then GeoTag will say a city or state, starting from A, say Atlanta
+  Words said by either of us can not be repeated
+  Score is kept for maximum number of such tags played in 30 seconds
+  If you want to learn about a place the Geo Tag said you can just say tell me about it
+  Or if you want to learn about a city or state in US, you can say something like tell me about Miami
+  If you do not have a response, you can say pass in which case Geo Tag will start with some another word
+  To start the game, just say Lets play!
+  </speak>
